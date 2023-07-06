@@ -1,5 +1,7 @@
 # Wiener-filter
 
+Projet fait par Steve SUISSA et Vicent DEGOT
+
 Sources : 
 - https://www.owlnet.rice.edu/~elec539/Projects99/BACH/proj2/blind/bd.html
 - https://fr.mathworks.com/help/images/ref/wiener2.html

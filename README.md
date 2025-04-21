@@ -2,7 +2,11 @@
 
 Python Implementation of Wiener's filter for image processing.
 Project done by Steve SUISSA and Vicent DEGOT.
+
+How different filters affects an image :
 ![Different Filters](pics/different_filters.png)
+
+How different kernel sizes affects an image :
 ![Different Sizes](pics/different_sizes.png)
 
 Sources :

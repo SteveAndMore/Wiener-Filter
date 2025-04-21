@@ -1,8 +1,11 @@
 # Wiener-filter
 
-Projet fait par Steve SUISSA et Vicent DEGOT
+Python Implementation of Wiener's filter for image processing.
+Project done by Steve SUISSA and Vicent DEGOT.
+![Different Filters](pics/different_filters.png)
+![Different Sizes](pics/different_sizes.png)
 
-Sources : 
+Sources :
 - https://www.owlnet.rice.edu/~elec539/Projects99/BACH/proj2/blind/bd.html
 - https://fr.mathworks.com/help/images/ref/wiener2.html
 
